@@ -1,2 +1,1 @@
-# SampleTest
-ToTest
+This is sample Test
